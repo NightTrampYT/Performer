@@ -1,0 +1,14 @@
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\bin\Debug\net8.0\Performer.exe
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\bin\Debug\net8.0\Performer.deps.json
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\bin\Debug\net8.0\Performer.runtimeconfig.json
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\bin\Debug\net8.0\Performer.dll
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\bin\Debug\net8.0\Performer.pdb
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.AssemblyInfoInputs.cache
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.AssemblyInfo.cs
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.csproj.CoreCompileInputs.cache
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.dll
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\refint\Performer.dll
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.pdb
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\Performer.genruntimeconfig.cache
+C:\Users\StudentApple.TOP.010\RiderProjects\Performer\Performer\obj\Debug\net8.0\ref\Performer.dll
